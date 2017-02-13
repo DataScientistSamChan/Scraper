@@ -1,0 +1,5021 @@
+asdf
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-01-18 10:03:43
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f2742486a58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-01-18 14:46:49
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f8a78c239e8
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-01-18 14:48:12
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7fb394ee19e8
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-01-20 15:05:04
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7fd87459da20
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-01-23 14:56:39
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f36f1c4e048
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-01-23 16:16:37
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f74454a4048
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+Trying the 1 time
+Trying the 2 time
+Trying the 3 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-01-28 18:15:16
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f3ea383fac8
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-01-28 19:05:27
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f0ed1a45a90
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-01-28 19:55:36
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7fd0ae48da58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-01-28 20:46:01
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f02d1341a90
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-01-28 21:36:14
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7fedfc5d5a58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+Trying the 1 time
+Trying the 2 time
+Trying the 3 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-01-28 23:23:40
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f29f1521a58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+Trying the 3 time
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-01-29 00:15:54
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f32dc70ba58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+Trying the 3 time
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-01-29 02:50:58
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f521e3cea58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-01-29 03:41:08
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7faabb01fa90
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-01-29 04:31:44
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f1f8333ca58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+Trying the 1 time
+Trying the 2 time
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-01-29 08:50:16
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7fe80695ea58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+Trying the 1 time
+Trying the 2 time
+Trying the 3 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-01-29 10:38:44
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f39e64f3a58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+Trying the 1 time
+Trying the 2 time
+Trying the 3 time
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-01-29 11:33:03
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7fd6e1160a58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-01-29 12:24:15
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7fc43d1b7a58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-01-29 13:14:25
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f31e0ac6a58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 2 time
+Trying the 3 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-01-29 15:52:26
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7ff56b8caa58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-01-29 17:52:22
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7fc234f18a90
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+Trying the 1 time
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-01-29 20:33:27
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f29869f9a58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 1 time
+Trying the 2 time
+Trying the 3 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-01-29 21:27:10
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f11b4305a58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-01-29 23:12:05
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f8472948a90
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-01-30 00:52:25
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7fc8554d7a90
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 1 time
+Trying the 3 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-01-30 02:35:15
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7fcebf5fba58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 2 time
+Trying the 3 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-01-30 03:44:10
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f146e7daa90
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-01-30 04:35:23
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f5780012a90
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+Trying the 1 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-01-30 06:22:49
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7fec30f4da58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+Trying the 3 time
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-01-30 07:15:03
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7fb2e94daa58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 1 time
+Trying the 2 time
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-01-30 08:07:17
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f973384da58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-01-30 08:58:30
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f19cedfea58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-01-30 09:48:38
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f45cdab6a58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-01-30 11:30:02
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f45574e4ac8
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-01-30 13:10:28
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7ff864f7ea58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-01-30 14:00:02
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f4c487dfa58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+Trying the 2 time
+Trying the 3 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-01-30 14:53:45
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7fcf3ee9da58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+Trying the 1 time
+Trying the 2 time
+Trying the 3 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-01-30 15:48:30
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f1dea019a90
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+Trying the 2 time
+Trying the 3 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-01-30 16:42:13
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f6b72afea58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 1 time
+Trying the 2 time
+Trying the 3 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-01-30 17:35:56
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7face3da4a58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+Trying the 1 time
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-01-30 18:28:13
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f8f558e2a58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-01-30 19:18:29
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f7a009d3ac8
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 1 time
+Trying the 2 time
+Trying the 3 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-01-30 20:12:12
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7fd0bd54fa58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 1 time
+Trying the 2 time
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-01-30 21:04:31
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f6f98f74ac8
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 1 time
+Trying the 3 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-01-30 21:56:09
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7ff80ca1ba58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 1 time
+Trying the 2 time
+Trying the 3 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-01-30 22:49:52
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f575e526a58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+Trying the 2 time
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-01-31 01:31:37
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7fb54047ca58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+Trying the 2 time
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-01-31 03:16:33
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f08d0bb7ac8
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 1 time
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-01-31 04:57:54
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f9048f10a58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-01-31 05:48:04
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f87806faa58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+Trying the 2 time
+Trying the 3 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-01-31 06:40:43
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f7e31c62a90
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 1 time
+Trying the 2 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-01-31 07:33:25
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f3ce350ba58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+Trying the 1 time
+Trying the 2 time
+Trying the 3 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-01-31 08:28:10
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f951bc2ca90
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+Trying the 1 time
+Trying the 2 time
+Trying the 3 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-01-31 09:21:54
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7fe9baa18a90
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+Trying the 1 time
+Trying the 3 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-01-31 11:00:55
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f3c4f121a58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+Trying the 3 time
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-01-31 11:53:14
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7ff026a4fa58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-01-31 12:43:28
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f3d0bfb1a58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-01-31 13:34:15
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f1ff9428a58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+Trying the 1 time
+Trying the 3 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-01-31 15:18:10
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f617e55ca90
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+Trying the 3 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-01-31 16:09:54
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f32bbefaa58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+Trying the 1 time
+Trying the 2 time
+Trying the 3 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-01-31 17:04:41
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f29330b6a58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+Trying the 1 time
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-01-31 17:56:59
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f926e9a8a90
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 1 time
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-01-31 18:48:11
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7fcde7c91a58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+Trying the 1 time
+Trying the 2 time
+Trying the 3 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-01-31 20:35:36
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f4a49f07a58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+Trying the 2 time
+Trying the 3 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-01-31 21:28:17
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f29681e7a90
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+Trying the 1 time
+Trying the 2 time
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-01-31 22:21:37
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f96210b1a90
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 3 time
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-01-31 23:12:50
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f6923732a90
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-01 00:56:07
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7faf4e5a3a58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+Trying the 1 time
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-01 02:41:03
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f76dc1e9a58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-01 06:08:25
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7fcc58d22a58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-01 06:58:40
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7fcd677b1a58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-01 07:49:53
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f2554032a58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-01 08:41:32
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f20e540ca58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 3 time
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-01 09:32:43
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f8758a59a58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 3 time
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-01 10:23:55
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f2385322a90
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 3 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-01 13:01:01
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f9eef0b5a58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-01 13:51:23
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f62b990ba90
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+Trying the 1 time
+Trying the 2 time
+Trying the 3 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-01 16:29:24
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f138ac54a58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+Trying the 1 time
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-01 17:21:55
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7fd005f11a58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+Trying the 2 time
+Trying the 3 time
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-01 20:04:04
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f0542f96ac8
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+Trying the 1 time
+Trying the 2 time
+Trying the 3 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-01 20:58:59
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f5f807b8a90
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+Trying the 1 time
+Trying the 2 time
+Trying the 3 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-01 21:54:01
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7feef61eea58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 1 time
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-01 22:45:15
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f417584be80
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-02 00:27:43
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f1ae81b7a90
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+Trying the 2 time
+Trying the 3 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-02 03:05:59
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7fcbe3b22a58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+Trying the 1 time
+Trying the 2 time
+Trying the 3 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-02 04:00:44
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7faba23c9a58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+Trying the 3 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-02 04:53:28
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7fcff0f51a58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-02 07:26:07
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7fe8d3f2ea58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-02 08:16:24
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f3136fb2a90
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-02 09:07:37
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f3b59d7ba58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 2 time
+Trying the 3 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-02 10:00:18
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f161bc1da58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+Trying the 1 time
+Trying the 2 time
+Trying the 3 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-02 11:48:46
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f801e68fa58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+Trying the 1 time
+Trying the 2 time
+Trying the 3 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-02 13:34:55
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7fd70ad88a58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+Trying the 1 time
+Trying the 2 time
+Trying the 3 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-02 14:29:40
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7fba2f3d7a90
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-02 15:19:56
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f11eba5ba90
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 1 time
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-02 16:11:21
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7fddd835ba90
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-02 18:42:30
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f85b9c35a90
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-02 19:33:08
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f19998a4a58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 1 time
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-02 21:17:46
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7fcf480d5a58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-02 22:08:02
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7ff2f1d6ba90
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-02 22:58:15
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7fbec9504a90
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+Trying the 1 time
+Trying the 2 time
+Trying the 3 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-03 01:41:29
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f2c966e7a58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-03 05:12:47
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f9590bf2a58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 1 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-03 06:04:26
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7ff590189a90
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+Trying the 1 time
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-03 07:49:20
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f41ecf09a58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-03 08:39:30
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7fae783d6a58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-03 09:30:42
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7faaf56d1a58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+Trying the 1 time
+Trying the 2 time
+Trying the 3 time
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-03 11:15:09
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7fadd7286a90
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+Trying the 1 time
+Trying the 2 time
+Trying the 3 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-03 13:01:06
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f7929965a58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+Trying the 1 time
+Trying the 2 time
+Trying the 3 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-03 13:55:52
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7fe5fe7d8a90
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+Trying the 1 time
+Trying the 2 time
+Trying the 3 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-03 14:50:08
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7efc1351aa58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+Trying the 1 time
+Trying the 2 time
+Trying the 3 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-03 15:44:53
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7fac24d65a58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 1 time
+Trying the 3 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-03 16:37:45
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f1e88929a58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 1 time
+Trying the 2 time
+Trying the 3 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-03 17:31:28
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7fe0d3c2fa58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-03 18:21:44
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f34c6abfa58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 2 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-03 19:13:23
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7fabf2613a90
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-03 20:54:35
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f019d0dea58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 2 time
+Trying the 3 time
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-03 21:46:50
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7fbd95bc9a90
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-03 22:38:02
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7fdee795aac8
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 2 time
+Trying the 3 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-03 23:30:43
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f7c6c591a90
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+Trying the 1 time
+Trying the 2 time
+Trying the 3 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-04 00:25:28
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f0d09e05a90
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 1 time
+Trying the 2 time
+Trying the 3 time
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-04 03:00:07
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f0cfb437a58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 2 time
+Trying the 3 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-04 04:43:59
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7fdf85de5a58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-04 05:35:10
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7fa9e173ba58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 2 time
+Trying the 3 time
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-04 07:17:33
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f5f8a2bfa58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 2 time
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-04 08:08:44
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7fde9e044a58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 1 time
+Trying the 2 time
+Trying the 3 time
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-04 09:02:00
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7ff0ffc38a58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 1 time
+Trying the 2 time
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-04 09:54:15
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f11759e2a58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-04 10:44:25
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f57894cea58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-04 11:35:02
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f8c2e21ba90
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+Trying the 1 time
+Trying the 2 time
+Trying the 3 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-04 14:18:19
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7fa99e411a90
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+Trying the 1 time
+Trying the 2 time
+Trying the 3 time
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-04 16:04:20
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f3dd1dc4a90
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-04 16:55:02
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7fc264c1ca58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+Trying the 1 time
+Trying the 2 time
+Trying the 3 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-04 18:43:31
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f1c0cc6ba58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 2 time
+Trying the 3 time
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-04 22:09:04
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f745601aa58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 1 time
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-04 23:00:16
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f85d8348a90
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+Trying the 1 time
+Trying the 2 time
+Trying the 3 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-05 00:48:44
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7fcb9b6f3a90
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+Trying the 1 time
+Trying the 3 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-05 01:42:27
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f7ed7bdda90
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-05 03:23:17
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f15bfd2ea58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 1 time
+Trying the 3 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-05 05:56:21
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7fcd379e6a58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-05 06:47:34
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f2c9d358a90
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-05 07:37:43
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f3086f4de80
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+Trying the 2 time
+Trying the 3 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-05 08:31:27
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f50156a5a58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-05 10:13:52
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f9b1c726a90
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 1 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-05 11:05:32
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7fb6e1006a58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-05 12:48:20
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f8ce061da58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-05 13:38:31
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7ff14659fa90
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 1 time
+Trying the 2 time
+Trying the 3 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-05 15:22:51
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7fae7bdaba90
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 1 time
+Trying the 2 time
+Trying the 3 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-05 17:09:18
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7fdc0dacaa58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+Trying the 1 time
+Trying the 2 time
+Trying the 3 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-05 18:58:49
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7feba53c2a58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+Trying the 1 time
+Trying the 2 time
+Trying the 3 time
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-05 20:47:54
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f547421ca58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 1 time
+Trying the 2 time
+Trying the 3 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-05 21:41:38
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f3ec13f9a58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+Trying the 2 time
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-05 22:33:56
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f42ed7ffa90
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-05 23:24:09
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7fd0cf2bda90
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-06 00:14:21
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f0a75987a58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-06 01:07:24
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f47bff3ca58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 3 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-06 02:49:13
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7fab4d7bba90
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+Trying the 1 time
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-06 03:41:27
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f79d4715a58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 1 time
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-06 05:24:52
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7fd8e8fe0a58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 3 time
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-06 06:16:04
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7fcb6b4f9a58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 1 time
+Trying the 2 time
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-06 07:08:17
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f3b2ec9fa90
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 1 time
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-06 07:59:29
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f4cee8c6a58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 1 time
+Trying the 2 time
+Trying the 3 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-06 09:45:53
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7fb92ccffa58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 1 time
+Trying the 2 time
+Trying the 3 time
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-06 12:24:32
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f7482c1ba58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-06 15:13:01
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7fa99c04da58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-06 16:04:49
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7fa289542ac8
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+Trying the 1 time
+Trying the 2 time
+Trying the 3 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-06 16:59:35
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7ff88d265a58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+Trying the 1 time
+Trying the 2 time
+Trying the 3 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-06 17:54:20
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7fdf679aca90
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-06 19:36:16
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f6bc3ec0ac8
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+Trying the 3 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-06 21:23:17
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f2a6c135a90
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-06 23:05:38
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f7474789a58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-06 23:55:48
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7fdaf5bfba58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 1 time
+Trying the 3 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-07 02:31:58
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f056e513a90
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+Trying the 2 time
+Trying the 3 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-07 04:20:04
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f0bf17b5a58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+Trying the 1 time
+Trying the 2 time
+Trying the 3 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-07 07:04:20
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f2cc11d1a58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+Trying the 2 time
+Trying the 3 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-07 08:52:49
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7ff06ec9aa58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 2 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-07 10:36:06
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7fba3f565a58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+Trying the 1 time
+Trying the 2 time
+Trying the 3 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-07 11:30:51
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f02c3708a90
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-07 12:21:00
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7fa08f79ca58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 3 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-07 13:12:38
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f07bea3da58
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+Trying the 1 time
+Trying the 3 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-07 14:56:10
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7fa118d8d978
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+Trying the 2 time
+Trying the 3 time
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-07 15:49:43
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7fe0ff122978
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+Trying the 1 time
+Trying the 2 time
+Trying the 3 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-07 17:35:05
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7fbb4d88f978
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 1 time
+Trying the 2 time
+Trying the 3 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-07 18:28:49
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f731c8a5978
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+Trying the 1 time
+Trying the 3 time
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-07 19:22:07
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f261660c978
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 1 time
+Trying the 2 time
+Trying the 3 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-07 22:03:36
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7fbe5e05a978
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+Trying the 1 time
+Trying the 2 time
+Trying the 3 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-07 22:58:22
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f9eeb92b978
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+Trying the 1 time
+Trying the 3 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-07 23:52:05
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7fc4428ea978
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 3 time
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-08 02:27:49
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f7e7053b978
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 1 time
+Trying the 2 time
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-08 03:20:03
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7fb0636d7978
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-08 04:10:14
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7fa36d94a978
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+Trying the 3 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-08 05:02:56
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7efe67c4fdd8
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 1 time
+Trying the 2 time
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-08 05:55:11
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f25fd009978
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+Trying the 2 time
+Trying the 3 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-08 06:48:55
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f879c9b89b0
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 1 time
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-08 08:31:47
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f5fe9525978
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+Trying the 2 time
+Trying the 3 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-08 09:25:30
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7fecbc11f978
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+Trying the 1 time
+Trying the 2 time
+Trying the 3 time
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-08 10:20:00
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f58fae179e8
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-08 11:21:31
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f1ae8d049b0
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+Trying the 1 time
+Trying the 2 time
+Trying the 3 time
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-08 12:15:55
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7ff0fff38978
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
+asdf
+Trying the 0 time
+Trying the 1 time
+Trying the 2 time
+mail sent
+files removed
+ 
+ -------------- celery@python.example.com v4.0.2 (latentcall)
+---- **** ----- 
+--- * ***  * -- Linux-2.6.32-642.13.1.el6.x86_64-x86_64-with-centos-6.8-Final 2017-02-11 14:14:02
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         tasks:0x7f537449b9e8
+- ** ---------- .> transport:   amqp://guest:**@localhost:5672//
+- ** ---------- .> results:     amqp://
+- *** --- * --- .> concurrency: 2 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.csv_handler1
+  . tasks.send_csv
+  . tasks.url_handler1
+
